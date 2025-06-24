@@ -1,0 +1,2 @@
+# weatherApplication2ndYrIT
+# ClimaScope
