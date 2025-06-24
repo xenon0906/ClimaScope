@@ -38,5 +38,5 @@
 ### 1. Clone the Project
 
 ```bash
-git clone https://github.com/your-username/climascope.git
-cd climascope
+git clone https://github.com/xenon0906/ClimaScope.git
+cd ClimaScope
