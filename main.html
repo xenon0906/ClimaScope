@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>ClimaScope</title>
+  <link rel="stylesheet" href="style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Inter:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="overlay">
+    <h1 class="app-title">🌤️ ClimaScope</h1>
+    <div class="glass-box" id="searchSection">
+      <input type="text" id="cityInput" placeholder="Enter city name..." />
+      <div class="button-row">
+        <button id="searchBtn">🔍</button>
+        <button id="locationBtn">📍</button>
+      </div>
+    </div>
+    <div id="weatherCard" class="hidden">
+      <h2 id="location"></h2>
+      <img id="icon" alt="Weather icon"/>
+      <p id="desc"></p>
+      <p id="temp"></p>
+      <p id="details"></p>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
