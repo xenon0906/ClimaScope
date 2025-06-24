@@ -2,7 +2,7 @@
 
 **ClimaScope** is a stylish, fully responsive weather web application that provides real-time weather updates based on user input or current location. Designed with a modern glassmorphism UI and powered by the OpenWeatherMap API, ClimaScope is easy to use and looks great across all devices.
 
-![Preview](assets/background.jpg)
+![Preview](assets/ss.png)
 
 ---
 
